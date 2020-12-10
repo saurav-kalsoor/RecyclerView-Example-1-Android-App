@@ -1,1 +1,1 @@
-# RecyclerView-Example-1-Android-App
+# RecyclerView Example - 1 Android App
